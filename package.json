@@ -1,0 +1,21 @@
+{
+    "name": "coppa",
+    "displayName": "Coppa",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coppa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coppa-color-theme.json"
+            }
+        ]
+    }
+}
